@@ -18,7 +18,7 @@
   <samp>
     I specialize in Machine Learning & Modeling/Simulation.
     <br>I enjoy web development, design, and dancing.
-    <br>I'm looking for Summer 2023 internships. 
+    <br>I'm looking for Summer 2024 internships. 
   </samp>
 </p>
 
