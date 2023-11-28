@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Hi! I'm currently a 2nd-year CS student at Georgia Tech.
+    Hi! I'm currently a 2nd-year Computer Science, undergrad student at Georgia Tech.
   </samp>
 </p>
 
@@ -16,9 +16,10 @@
 
 <p align="center">
   <samp>
-    I specialize in Machine Learning & Modeling/Simulation.
-    <br>I enjoy web development, design, and dancing.
-    <br>I'm looking for Summer 2024 internships. 
+    I specialize in Machine Learning & Human-Computer Interaction.
+    <br>I enjoy web development, psychology, and statistics.
+    <br>I am interested in research & pursuing a PhD in either Psychology, HCI, or AI!
+    <br>I'm looking for Summer 2024 internships in Software Engineering.
   </samp>
 </p>
 
