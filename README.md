@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-    Hi! I'm currently a 2nd-year Computer Science, undergrad student at Georgia Tech.
+    Hi! I'm currently a 2nd-year, Computer Science, undergrad student at Georgia Tech.
   </samp>
 </p>
 
