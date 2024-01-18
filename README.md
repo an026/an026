@@ -27,10 +27,3 @@
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px">
   </samp>
 </p>
-
-<p align="center">
-  <samp>
-    Fun fact: Cats sleep for 70% of life.<br><br>
-    <img src="https://media.tenor.com/KPk68skoh7IAAAAC/siamese-cat-siamese.gif" width="240px" align="center">
-  </samp>
-</p>
